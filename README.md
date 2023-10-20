@@ -16,3 +16,14 @@ E necessário digitar na primeira vez o seguinte comando para instalar as demais
 ### Colabroadores
 
 - @joserrbv ( Jose Queiroz)
+
+  ### Imagens
+
+  ![o07kfY.jpeg](https://a.imagem.app/o07kfY.jpeg)
+  - Pagina Inicial
+ 
+  ![o07YMk.jpeg](https://a.imagem.app/o07YMk.jpeg)
+  - Detalhe do Filme
+ 
+  ![o07KXJ.jpeg](https://a.imagem.app/o07KXJ.jpeg)
+  - Pesquisa por Filme
